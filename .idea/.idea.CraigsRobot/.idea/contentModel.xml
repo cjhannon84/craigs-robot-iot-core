@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\cjhan\.nuget\packages\mstest.testadapter\2.0.0\build\_common\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" t="Include" />
+    <e p="C:\Users\cjhan\.nuget\packages\mstest.testadapter\2.0.0\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" t="Include" />
+    <e p="C:\Users\cjhan\.nuget\packages\mstest.testadapter\2.0.0\build\uap10.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" t="Include" />
+    <e p="C:\Users\cjhan\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\cjhan\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_CraigsRobot.448090958.00" t="ExcludeRecursive" />
+    <e p="D:\src\CraigsRobot" t="IncludeFlat">
+      <e p="CraigsRobot" t="IncludeRecursive">
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="Assets" t="Include">
+          <e p="LockScreenLogo.scale-200.png" t="Include" />
+          <e p="SplashScreen.scale-200.png" t="Include" />
+          <e p="Square150x150Logo.scale-200.png" t="Include" />
+          <e p="Square44x44Logo.scale-200.png" t="Include" />
+          <e p="Square44x44Logo.targetsize-24_altform-unplated.png" t="Include" />
+          <e p="StoreLogo.png" t="Include" />
+          <e p="Wide310x150Logo.scale-200.png" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CraigsRobot.csproj" t="IncludeRecursive" />
+        <e p="MainPage.xaml" t="Include" />
+        <e p="MainPage.xaml.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="x86" t="Include">
+            <e p="Debug" t="Include">
+              <e p="App.g.cs" t="Include" />
+              <e p="App.g.i.cs" t="Include" />
+              <e p="MainPage.g.cs" t="Include" />
+              <e p="MainPage.g.i.cs" t="Include" />
+              <e p="XamlTypeInfo.g.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Package.appxmanifest" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Default.rd.xml" t="Include" />
+        </e>
+      </e>
+      <e p="CraigsRobot.Core" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CraigsRobot.Core.csproj" t="IncludeRecursive" />
+        <e p="Helpers" t="Include">
+          <e p="ControllerDirectionHelpers.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="ControllerDirectionEnum.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="CraigsRobot.Core.rd.xml" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="GamepadService.cs" t="Include" />
+          <e p="Interfaces" t="Include">
+            <e p="IGamepadService.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="CraigsRobot.Core.Tests" t="IncludeRecursive">
+        <e p="Assets" t="Include">
+          <e p="LockScreenLogo.scale-200.png" t="Include" />
+          <e p="SplashScreen.scale-200.png" t="Include" />
+          <e p="Square150x150Logo.scale-200.png" t="Include" />
+          <e p="Square44x44Logo.scale-200.png" t="Include" />
+          <e p="Square44x44Logo.targetsize-24_altform-unplated.png" t="Include" />
+          <e p="StoreLogo.png" t="Include" />
+          <e p="Wide310x150Logo.scale-200.png" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CraigsRobot.Core.Tests.csproj" t="IncludeRecursive" />
+        <e p="Helpers" t="Include">
+          <e p="ControllerDirectionHelpersTests.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="x86" t="Include">
+            <e p="Debug" t="Include">
+              <e p="UnitTestApp.g.cs" t="Include" />
+              <e p="UnitTestApp.g.i.cs" t="Include" />
+              <e p="XamlTypeInfo.g.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Package.appxmanifest" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Default.rd.xml" t="Include" />
+        </e>
+        <e p="UnitTest.cs" t="Include" />
+        <e p="UnitTestApp.xaml" t="Include" />
+        <e p="UnitTestApp.xaml.cs" t="Include" />
+      </e>
+      <e p="CraigsRobot.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,2 @@
+D:\src\CraigsRobot\CraigsRobot.Core.Tests\CraigsRobot.Core.Tests.csproj;x86
+D:\src\CraigsRobot\CraigsRobot.Core\CraigsRobot.Core.csproj;x86
