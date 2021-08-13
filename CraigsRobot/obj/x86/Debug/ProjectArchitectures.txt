@@ -1,2 +1,2 @@
-D:\src\CraigsRobot\CraigsRobot.Core\CraigsRobot.Core.csproj;x86
+D:\src\CraigsRobot\CraigsRobot.Core\CraigsRobot.Core.csproj;neutral
 D:\src\CraigsRobot\CraigsRobot\CraigsRobot.csproj;x86

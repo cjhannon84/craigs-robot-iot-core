@@ -1,0 +1,2 @@
+D:\src\CraigsRobot\CraigsRobot.Core\CraigsRobot.Core.csproj;arm
+D:\src\CraigsRobot\CraigsRobot\CraigsRobot.csproj;arm

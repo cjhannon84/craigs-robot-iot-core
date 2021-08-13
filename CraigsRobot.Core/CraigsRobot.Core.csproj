@@ -124,7 +124,9 @@
     <Compile Include="Models\ControllerDirectionEnum.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\GamepadService.cs" />
+    <Compile Include="Services\MovementService.cs" />
     <Compile Include="Services\Interfaces\IGamepadService.cs" />
+    <Compile Include="Services\Interfaces\IMovementService.cs" />
     <EmbeddedResource Include="Properties\CraigsRobot.Core.rd.xml" />
   </ItemGroup>
   <ItemGroup>

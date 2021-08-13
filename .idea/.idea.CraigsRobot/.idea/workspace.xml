@@ -5,11 +5,74 @@
     <projectFile>CraigsRobot.Core.Tests/CraigsRobot.Core.Tests.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f911dcb-3fc3-4477-8f23-e3395f1523a1" name="Default Changelist" comment="" />
+    <list default="true" id="0f911dcb-3fc3-4477-8f23-e3395f1523a1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CraigsRobot/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CraigsRobot/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CraigsRobot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CraigsRobot/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/CraigsRobot/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/CraigsRobot/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot.Core.Tests/obj/CraigsRobot.Core.Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot.Core.Tests/obj/CraigsRobot.Core.Tests.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot.Core.Tests/obj/CraigsRobot.Core.Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot.Core.Tests/obj/CraigsRobot.Core.Tests.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot.Core.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot.Core.Tests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot.Core.Tests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot.Core.Tests/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot.Core.Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot.Core.Tests/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot.Core.Tests/obj/x86/Debug/CraigsRobot.Core.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot.Core.Tests/obj/x86/Debug/CraigsRobot.Core.Tests.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot.Core.Tests/obj/x86/Debug/XamlSaveStateFile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot.Core.Tests/obj/x86/Debug/XamlSaveStateFile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot.Core/bin/Debug/CraigsRobot.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot.Core/bin/Debug/CraigsRobot.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot.Core/bin/Debug/CraigsRobot.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot.Core/bin/Debug/CraigsRobot.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot.Core/obj/CraigsRobot.Core.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot.Core/obj/CraigsRobot.Core.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot.Core/obj/CraigsRobot.Core.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot.Core/obj/CraigsRobot.Core.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot.Core/obj/Debug/CraigsRobot.Core.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot.Core/obj/Debug/CraigsRobot.Core.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot.Core/obj/Debug/CraigsRobot.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot.Core/obj/Debug/CraigsRobot.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot.Core/obj/Debug/CraigsRobot.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot.Core/obj/Debug/CraigsRobot.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot.Core/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot.Core/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot.Core/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot.Core/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot.Core/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot.Core/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot.Core/obj/x86/Debug/CraigsRobot.Core.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot.Core/obj/x86/Debug/CraigsRobot.Core.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/App.xbf" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/App.xbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/AppX/App.xbf" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/AppX/App.xbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/AppX/AppxManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/AppX/AppxManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/AppX/CraigsRobot.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/AppX/CraigsRobot.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/AppX/MainPage.xbf" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/AppX/MainPage.xbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/AppX/entrypoint/CraigsRobot.exe" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/AppX/entrypoint/CraigsRobot.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/AppX/vs.appxrecipe" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/AppX/vs.appxrecipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/AppxManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/AppxManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/Core/AppxManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/Core/AppxManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/CraigsRobot.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/CraigsRobot.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/CraigsRobot.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/CraigsRobot.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/CraigsRobot.build.appxrecipe" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/CraigsRobot.build.appxrecipe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/CraigsRobot.exe" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/CraigsRobot.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/CraigsRobot.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/CraigsRobot.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/MainPage.xbf" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/bin/x86/Debug/MainPage.xbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/obj/ARM/Debug/App.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/obj/ARM/Debug/App.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/obj/ARM/Debug/CraigsRobot.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/obj/ARM/Debug/CraigsRobot.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/obj/ARM/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/obj/ARM/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/obj/ARM/Debug/XamlSaveStateFile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/obj/ARM/Debug/XamlSaveStateFile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/obj/CraigsRobot.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/obj/CraigsRobot.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/obj/CraigsRobot.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/obj/CraigsRobot.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/obj/x86/Debug/App.xbf" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/obj/x86/Debug/App.xbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/obj/x86/Debug/CraigsRobot.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/obj/x86/Debug/CraigsRobot.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/obj/x86/Debug/CraigsRobot.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/obj/x86/Debug/CraigsRobot.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/obj/x86/Debug/CraigsRobot.exe" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/obj/x86/Debug/CraigsRobot.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/obj/x86/Debug/CraigsRobot.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/obj/x86/Debug/CraigsRobot.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/obj/x86/Debug/MainPage.xbf" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/obj/x86/Debug/MainPage.xbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/obj/x86/Debug/ProjectArchitectures.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/obj/x86/Debug/ProjectArchitectures.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/obj/x86/Debug/ResourceHandlingTask.state" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/obj/x86/Debug/ResourceHandlingTask.state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/obj/x86/Debug/XamlSaveStateFile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/obj/x86/Debug/XamlSaveStateFile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/obj/x86/Debug/intermediatexaml/CraigsRobot.exe" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/obj/x86/Debug/intermediatexaml/CraigsRobot.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/obj/x86/Debug/intermediatexaml/CraigsRobot.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/obj/x86/Debug/intermediatexaml/CraigsRobot.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/obj/x86/Debug/pri.resfiles" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/obj/x86/Debug/pri.resfiles" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CraigsRobot/obj/x86/Debug/pri.resfiles.intermediate" beforeDir="false" afterPath="$PROJECT_DIR$/CraigsRobot/obj/x86/Debug/pri.resfiles.intermediate" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -18,6 +81,7 @@
       <option value="$PROJECT_DIR$/CraigsRobot.Core/Services/GamepadService.cs" />
       <option value="$PROJECT_DIR$/CraigsRobot/MainPage.xaml.cs" />
       <option value="$PROJECT_DIR$/CraigsRobot.Core.Tests/UnitTest.cs" />
+      <option value="$PROJECT_DIR$/CraigsRobot.CorevNext/Class1.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1u4mNmdJ9qUnKGEf4K9aufmGx9e" />
@@ -67,6 +131,10 @@
       <workItem from="1623943609401" duration="3290000" />
       <workItem from="1623963173735" duration="530000" />
       <workItem from="1624034111992" duration="743000" />
+      <workItem from="1628100138105" duration="315000" />
+      <workItem from="1628173705816" duration="79000" />
+      <workItem from="1628173837207" duration="847000" />
+      <workItem from="1628867610314" duration="291000" />
     </task>
     <servers />
   </component>

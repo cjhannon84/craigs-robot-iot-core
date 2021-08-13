@@ -8177,6 +8177,8 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {},
+        "https://wcrs.pkgs.visualstudio.com/Attaro/_packaging/AttaroBroker/nuget/v3/index.json": {},
+        "https://wcrs.pkgs.visualstudio.com/_packaging/BSW/nuget/v3/index.json": {},
         "https://wcrs.pkgs.visualstudio.com/_packaging/TradeHelp/nuget/v3/index.json": {}
       },
       "frameworks": {

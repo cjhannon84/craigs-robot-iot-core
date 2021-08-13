@@ -39,10 +39,12 @@ namespace CraigsRobot
         private async Task ReadInputLoop(CancellationToken token)
         {
             var gamepad = new GamepadService();
+            var directionService = new MovementService();
             while (!token.IsCancellationRequested)
             {
                 var pad = gamepad.GetCurrentReading();
-                await UpdateText(CurrentDirection(pad));
+
+                directionService.Move(pad);
             }
         }
 
